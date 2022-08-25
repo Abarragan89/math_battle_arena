@@ -1,6 +1,7 @@
 {
   "name": "math_battle_arena",
   "version": "1.0.0",
+  "type": "module",
   "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
   "main": "index.ts",
   "scripts": {
@@ -9,7 +10,7 @@
     "develop": "concurrently \"cd server && npm run watch\" \"cd client && npm run dev\""
   },
   "repository": {
-    "type": "module",
+    "type": "git",
     "url": "git+https://github.com/Abarragan89/math_battle_arena.git"
   },
   "author": "",
