@@ -2,8 +2,7 @@
   "name": "server",
   "version": "1.0.0",
   "description": "",
-  "main": "app.ts",
-  "type": "module",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "nodemon --config nodemon.json src/app.ts"
