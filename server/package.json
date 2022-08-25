@@ -23,6 +23,7 @@
     "dayjs": "^1.11.5",
     "express": "^4.18.1",
     "mongoose": "^6.5.2",
+    "nanoid": "^3.3.4",
     "nodemon": "^2.0.19",
     "pino": "^8.4.2",
     "pino-pretty": "^9.0.1",

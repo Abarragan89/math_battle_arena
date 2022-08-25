@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/Abarragan89/math_battle_arena#readme",
   "dependencies": {
-    "concurrently": "^7.3.0"
+    "concurrently": "^7.3.0",
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "@types/node": "^18.7.11"

@@ -1,4 +1,0 @@
-function Room () {
-
-}
-export Room
