@@ -9,7 +9,7 @@
     "develop": "concurrently \"cd server && npm run watch\" \"cd client && npm run dev\""
   },
   "repository": {
-    "type": "git",
+    "type": "module",
     "url": "git+https://github.com/Abarragan89/math_battle_arena.git"
   },
   "author": "",
